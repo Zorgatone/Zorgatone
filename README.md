@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an .NET and Angular projects
+- 🔭 I’m currently working on .NET and Angular projects
 - 🌱 I’m currently learning too much stuff
 - 🤔 I’m looking for help with a space persistant browser based game
 - 💬 Ask me about JavaScript, TypeScript, Angular, React
