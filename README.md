@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Pixi.js game projects
+- 🔭 I’m currently working on Pixi.js video game projects
 - 🌱 I’m currently eager to learning new stuff and improve with [Zig](https://ziglang.org)
 - 🤔 I’m looking for help with a persistent browser-based video game (Galaxy exploration and warfare)
 - 💬 Ask me about JavaScript, TypeScript, and [Zig](https://ziglang.org)
